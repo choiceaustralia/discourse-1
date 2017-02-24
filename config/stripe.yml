@@ -1,0 +1,7 @@
+development:
+  secret_key: sk_test_LbfexHpTyeQu6h80BQ0NusM7
+  publishable_key: pk_test_b8RmhzlL8QPizJRqOrKF3JEV
+
+test:
+  secret_key: sk_test_LbfexHpTyeQu6h80BQ0NusM7
+  publishable_key: pk_test_b8RmhzlL8QPizJRqOrKF3JEV
